@@ -1,4 +1,17 @@
 
+This is a tkinter GUI based project.
+This is containing:
+1)Login : login.py 
+2)Register : register.py
+3)Forget Password : small self window
+4)Main page containg all the sub pages : main.py
+5)Sub pages:
+    a)Student details : student.py .This does insert,delete,update in database and database connection with student.py page
+    b)Train data : train.py .This is training the sample data and makes classifier file to keep updated photo samples.
+    c)Face detection and recognition : face_recognition.py .This is containing main face detection and recognition algorithms.
+    d)Attendace show page : attendance.py  Calls import csv and export csv for fetching and storing the updated attendance.
+    e)Exit main page come back to login : exit pop up messagebox error
+
 
 scaleFactor specifies how much the image size is reduced with each scale. 
 In a group photo, there may be some faces which are near the camera than others.
@@ -8,3 +21,5 @@ This factor compensates for that.
 minNeighbours specifies how many neighbours each candidate rectangle should have to
 retain it. 
 This parameter specifies the number of neighbours a rectangle should have to be called a face.
+
+
