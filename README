@@ -1,0 +1,8 @@
+scaleFactor specifies how much the image size is reduced with each scale. 
+In a group photo, there may be some faces which are near the camera than others.
+Naturally, such faces would appear more prominent than the ones behind. 
+This factor compensates for that.
+
+minNeighbours specifies how many neighbours each candidate rectangle should have to
+retain it. 
+This parameter specifies the number of neighbours a rectangle should have to be called a face.
