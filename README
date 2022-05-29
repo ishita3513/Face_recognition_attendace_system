@@ -1,3 +1,5 @@
+
+
 scaleFactor specifies how much the image size is reduced with each scale. 
 In a group photo, there may be some faces which are near the camera than others.
 Naturally, such faces would appear more prominent than the ones behind. 
