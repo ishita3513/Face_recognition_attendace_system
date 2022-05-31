@@ -22,4 +22,4 @@ minNeighbours specifies how many neighbours each candidate rectangle should have
 retain it. 
 This parameter specifies the number of neighbours a rectangle should have to be called a face.
 
-
+Vedio explanation of application:https://youtu.be/INV-ke5T4O4
